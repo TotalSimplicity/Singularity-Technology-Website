@@ -18,31 +18,18 @@
       background-size: cover;
       position: relative;
       z-index: -1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
     }
-    .box {
-      width: 400px;
-      height: 200px;
-      background-color: #ffffff;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      text-align: center;
-      padding: 20px;
-    }
-    .second-box {
-      margin-top: 20px;
-      text-align: center;
-      position: relative;
-      z-index: 1;
-    }
-    .second-box h2 {
-      font-size: 24px;
-      font-weight: bold;
-    }
-    .second-box p {
-      color: navy;
-      text-indent: 30px;
+    
+    .parallax-section h2 {
+      color: #ffffff; /* Set the text color to white */
+      font-size: 45px;
+      font-family: 'Roboto', sans-serif;
+      font-weight: bolder;
+      margin-bottom: 2px; /* Adjust the spacing between the two lines of text */
     }
   </style>
 </head>
@@ -50,10 +37,8 @@
   <?php include('header.php'); ?>
 
   <div class="parallax-section">
-    <div class="box">
-      <h2>Singularity Technology</h2>
-      <p>[Some caption thing].</p>
-    </div>
+    <h2>Singularity Technology</h2>
+    <h2>FTC Robotics Team #7034</h2>
   </div>
   
   <div class="second-box">
