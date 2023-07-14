@@ -26,8 +26,8 @@
     }
     header {
       height: 50px;
-      background-color: #f2f2f2;
-      display: flex;
+      background-color: #000000;
+      display: flex; /* Added this line */
       align-items: center;
       justify-content: space-between;
       padding: 20px;
@@ -49,16 +49,14 @@
     .title {
       font-size: 24px;
       font-weight: bold;
+      margin-left: 10px; /* Adjust the margin as per your preference */
     }
 
     .hamburger {
       color: #fff;
       cursor: pointer;
       font-size: 30px;
-    }
-    .hamburger-wrapper {
-      display: flex;
-      align-items: center;
+      margin-left: auto;
     }
     .sidebar.open {
       right: 0; /* Move sidebar to the right */
@@ -96,18 +94,11 @@
 </head>
 <body>
   <header>
-    <div>
-      <img src="logo.png" alt="Logo" class="logo" style="width:75px;height:50px;">
-    </div>
-    <div>
-      <h1 class="title">7034</h1>
-    </div>
-    
-    
-    <div class="hamburger-wrapper">
-      <div class="hamburger" onclick="toggleSidebar()">&#9776;</div>
-    </div>
+    <img src="logo.png" alt="Logo" class="logo" style="width:75px;height:50px;">
+    <h1 style="color: #ffffff;"class="title">7034</h1>
+    <div class="hamburger" onclick="toggleSidebar()">&#9776;</div>
   </header>
+  
 
   <div class="parallax-section">
     <div class="box">
@@ -122,7 +113,7 @@
   
   <div class="sidebar">
     <div class="close-button" onclick="toggleSidebar()">X</div>
-    <a href="about_me.html" style="font-size: 23px; margin-top: 55px; font-weight: 50; font-family: 'Roboto', sans-serif;">About Me</a>
+    <a href="about_us.html" style="font-size: 23px; margin-top: 55px; font-weight: 50; font-family: 'Roboto', sans-serif;">About Us</a>
     <a href="about_me.html" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Our Robot</a>
     <a href="about_me.html" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Notebook</a>
   </div>
