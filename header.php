@@ -79,12 +79,12 @@
 
   <div class="sidebar">
     <div class="close-button" onclick="toggleSidebar()">X</div>
-    <a href="index.html" style="font-size: 23px; margin-top: 55px; font-weight: 50; font-family: 'Roboto', sans-serif;">Home</a>
-    <a href="about_us.html" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">About Us</a>
-    <a href="our_robot.html" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Our Robot</a>
-    <a href="notebook.html" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Notebook</a>
-    <a href="outreach.html" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Outreach</a>
-    <a href="awards.html" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Awards</a>
-    <a href="contact.html" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Contact us</a>
+    <a href="index.php" style="font-size: 23px; margin-top: 55px; font-weight: 50; font-family: 'Roboto', sans-serif;">Home</a>
+    <a href="about_us.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">About Us</a>
+    <a href="our_robot.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Our Robot</a>
+    <a href="notebook.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Notebook</a>
+    <a href="outreach.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Outreach</a>
+    <a href="awards.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Awards</a>
+    <a href="contact.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Contact us</a>
   </div>
 </header>
