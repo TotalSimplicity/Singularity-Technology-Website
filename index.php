@@ -2,6 +2,8 @@
 <html>
 <head>
   <title>Singularity Technology</title>
+  <link rel="icon" href="headerlogof.ico" type="image/x-icon">
+
   <style>
     body {
       margin: 0;
