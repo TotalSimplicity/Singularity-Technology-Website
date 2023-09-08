@@ -33,6 +33,19 @@
       font-weight: bolder;
       margin-bottom: 2px; /* Adjust the spacing between the two lines of text */
     }
+    .slideshow-container {
+    max-width: 100%;
+    position: relative;
+    margin: auto;
+    }
+
+    .mySlides {
+    display: none;
+    }
+    img {
+    width: 100%;
+    height: auto;
+    }
   </style>
 </head>
 <body>
@@ -43,9 +56,37 @@
     <h2>FTC Robotics Team #7034</h2>
   </div>
   
-  <div class="second-box">
-    <h2>Another Box Title</h2>
-    <p>Another paragraph area.</p>
+  <div class="slideshow-container">
+  <div class="mySlides">
+    <img src="indexslideshow/1.jpg" alt="Image 1">
   </div>
+
+  <div class="mySlides">
+    <img src="indexslideshow/2.jpg" alt="Image 2">
+  </div>
+
+  <div class="mySlides">
+    <img src="indexslideshow/3.jpg" alt="Image 3">
+  </div>
+</div>
+<script>
+  let slideIndex = 0;
+
+  function showSlides() {
+    const slides = document.getElementsByClassName("mySlides");
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {
+      slideIndex = 1;
+    }
+    slides[slideIndex - 1].style.display = "block";
+    setTimeout(showSlides, 3000); // Change image every 3 seconds (adjust as needed)
+  }
+
+  // Start the slideshow when the page loads
+  showSlides();
+</script>
 </body>
 </html>
