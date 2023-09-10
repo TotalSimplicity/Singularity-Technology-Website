@@ -1,5 +1,10 @@
+<title>The Header</title>
+
+<link href="style.css" rel="stylesheet">
 <header>
+  <link href="style.css" rel="stylesheet">
   <style>
+    
     header {
       height: 50px;
       background-color: #000000;
@@ -8,6 +13,11 @@
       justify-content: space-between;
       padding: 20px;
       margin: 0;
+      position: fixed; /* Add this line */
+      top: 0; /* Add this line to fix the header at the top of the viewport */
+      left: 0; /* Add this line to keep the header at the left edge of the viewport */
+      right: 0; /* Add this line to keep the header at the right edge of the viewport */
+      z-index: 200;
     }
 
     .logo {
@@ -54,6 +64,10 @@
       margin-bottom: 10px;
       color: #000;
       text-decoration: none;
+      font-family: 'Walter Turncoat', cursive;
+      font-size: 23px; 
+      margin-top: 23px; 
+      font-weight: 50; 
     }
 
     .close-button {
@@ -79,12 +93,12 @@
 
   <div class="sidebar">
     <div class="close-button" onclick="toggleSidebar()">X</div>
-    <a href="index.php" style="font-size: 23px; margin-top: 55px; font-weight: 50; font-family: 'Roboto', sans-serif;">Home</a>
-    <a href="about_us.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">About Us</a>
-    <a href="our_robot.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Our Robot</a>
-    <a href="notebook.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Notebook</a>
-    <a href="outreach.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Outreach</a>
-    <a href="awards.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Awards</a>
-    <a href="contact.php" style="font-size: 23px; font-weight: 50; font-family: 'Roboto', sans-serif;">Contact us</a>
+    <a href="index.php">Home</a>
+    <a href="about_us.php">About Us</a>
+    <a href="our_robot.php">Our Robot</a>
+    <a href="notebook.php">Notebook</a>
+    <a href="outreach.php">Outreach</a>
+    <a href="awards.php">Awards</a>
+    <a href="contact.php">Contact us</a>
   </div>
 </header>
