@@ -6,7 +6,7 @@ body {
       margin: 0;
       padding: 0;
       position: relative;
-      background-color: #333333;
+      background-color: black;
 }
 .parallax-section {
     height: 500px;
@@ -81,4 +81,40 @@ body {
     width: auto;
     padding-right: 30%;
     padding-left: 5%;
+}
+.footer-basic {
+  padding: 40px 0;
+  color: #c4bfbe;
+}
+
+.footer-basic ul {
+  padding: 0;
+  list-style: none; /* Removed list-inline */
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.footer-basic ul li {
+  display: inline; /* Display list items horizontally */
+  margin-right: 10px; /* Add some spacing between list items */
+}
+
+.footer-basic ul a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity: 1;
+}
+
+.footer-basic .copyright {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 13px;
+  color: #aaa;
+  margin-bottom: 0;
 }

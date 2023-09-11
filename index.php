@@ -8,12 +8,6 @@
 
   <style>
     
-    
-    
-    
-    
-
-    
     .slideshow-container {
       max-width: 75%;
       position: relative;

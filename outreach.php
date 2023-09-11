@@ -21,8 +21,8 @@
     }
 
     .column {
-      width: 40%; /* Make the boxes less wide */
-      height: 400px;
+      width: auto; /* Make the boxes less wide */
+      height: auto;
       background-color: white;
       padding: 20px;
       margin: 50px; /* Reduce the margin to bring the boxes closer */
@@ -41,6 +41,7 @@
     <div class="column">
       <h3>Our Outreach Initiatives</h3>
       <p>Our team prioritizes outreach and aims to connect with all aspects of our community. We have a junior team, TAP, where we give middle schoolers an exposure to how robotics works. TAP, which stands for Test and Prototype, works to build their own non-competition robot and program it to help prepare them for joining the Main Team and creating a successful competition robot.</p>
+      <img src="henry.png" alt="henrypng">
     </div>
 
     <div class="column">

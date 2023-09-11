@@ -68,13 +68,13 @@
   <div class="container">
     <form action="message-send.php" method="post">
       <label for="name">Name</label>
-      <input type="text" id="fname" name="name" placeholder="Your name..">
+      <input type="text" id="fname" name="name" placeholder="Your name...">
       <label for="email">Email</label>
-      <input type="text" id="email" name="email" placeholder="Your email..">
+      <input type="text" id="email" name="email" placeholder="Your email...">
 
 
       <label for="message">Message</label>
-      <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
+      <textarea id="message" name="message" placeholder="Write something..." style="height:200px"></textarea>
 
       <input type="submit" value="Submit">
     </form>
