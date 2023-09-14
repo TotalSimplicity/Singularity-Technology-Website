@@ -55,7 +55,7 @@ body {
     font-family: 'Advent Pro', sans-serif;
     text-decoration: underline;
     font-weight: bolder;
-    padding-left: 49%;
+    padding-left: 30%;
   }
   
 .parallax-section p {
@@ -65,7 +65,7 @@ body {
     font-weight: lighter;
     margin-top: 3px;
     margin-right: 2%;
-    padding-left: 49%;
+    padding-left: 30%;
     
   }
 .parallax-section .content {
@@ -79,7 +79,7 @@ body {
 .parallax-section img {
     height: 10%;
     width: auto;
-    padding-right: 30%;
+    padding-right: 15%;
     padding-left: 5%;
 }
 .footer-basic {
