@@ -30,7 +30,7 @@
   <?php include('header.php'); ?>
 
   <div class="parallax-section">
-    <h2 class="parallax-text">Singularity Technology</h2>
+    <h2 class="parallax-text">Singularity Test Technology</h2>
     <h2 class="parallax-text">FTC Robotics Team #7034</h2>
   </div>
   
