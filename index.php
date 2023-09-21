@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Singularity Technology</title>
+  <title>Singularity Test Technology</title>
   
   <link href="style.css" rel="stylesheet">
   <link rel="icon" href="headerlogof.ico" type="image/x-icon">
