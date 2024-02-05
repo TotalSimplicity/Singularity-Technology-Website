@@ -9,7 +9,7 @@ body {
       background-color: #0e0647;
 }
 .parallax-section {
-    height: 500px;
+    height: 950px;
     background-image: url('singularity.png');
     background-attachment: fixed;
     background-position: center;
