@@ -2,11 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Finlandica&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&display=swap');
-body {
+body{
       margin: 0;
       padding: 0;
       position: relative;
       background-color: #0e0647;
+      
+}
+body::-webkit-scrollbar{
+  display: none;
 }
 .parallax-section {
     height: 950px;

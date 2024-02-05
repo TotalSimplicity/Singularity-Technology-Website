@@ -4,7 +4,7 @@
   <title>Singularity Technology</title>
   
   <link href="style.css" rel="stylesheet">
-  <link rel="icon" href="headerlogof.ico" type="image/x-icon">
+  <link rel="icon" href="header.png" type="image/png">
 
   <style>
     
@@ -63,7 +63,7 @@
           Based out of the Wilton library, we are open to kids grades 9-12 from all places. Our goal is to do the best we can and achieve things by working together. 
           We partner up with local businesses, schools, and the people around us to help better our community.</p>
       </div>
-      <img src="henry.png" style="height: 400px">
+      <img src="portraitindexabout.jpg" style="height: 400px">
     </div>
   </div>
   <?php include('footer.php'); ?>
@@ -106,7 +106,19 @@
 
         slideshowContainer.style.opacity = opacity.toFixed(2); // Limit opacity to 2 decimal places for smoother transitions
     });
+    const aboutSection = document.querySelector('.parallax-section');
 
+window.addEventListener('scroll', () => {
+    const aboutSectionTop = aboutSection.offsetTop;
+    const windowHeight = window.innerHeight;
+    const scrollTop = window.scrollY;
+    const triggerPoint = aboutSectionTop - windowHeight + (windowHeight / 3); // Adjust this value as needed
+
+    // Calculate opacity based on scroll position
+    const opacity = Math.min(1, (scrollTop - triggerPoint) / (windowHeight / 3));
+
+    aboutSection.style.opacity = opacity.toFixed(2); // Limit opacity to 2 decimal places for smoother transitions
+});
   </script>
 </body>
 </html>

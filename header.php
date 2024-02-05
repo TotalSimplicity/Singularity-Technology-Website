@@ -51,13 +51,15 @@
     .sidebar {
       position: fixed;
       top: 0;
-      right: -250px;
-      width: 140px;
+      right: -450px;
+      width: 400px;
       height: 100%;
       background-color: #f1f1f1;
       padding: 20px;
       transition: right 0.3s ease-in-out;
+      overflow: hidden;
     }
+
 
     .sidebar a {
       display: block;
