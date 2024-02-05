@@ -6,11 +6,11 @@ body {
       margin: 0;
       padding: 0;
       position: relative;
-      background-color: #176B87;
+      background-color: #0e0647;
 }
 .parallax-section {
     height: 500px;
-    background-image: url('stars.jpg');
+    background-image: url('singularity.png');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -20,8 +20,10 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: left;
+    text-align: left;
     padding-top: 50px;
+    padding-left: 130px;
     overflow: hidden;
     perspective: 1px;
     transform-style: preserve-3d;
@@ -42,11 +44,12 @@ body {
   }
 .parallax-section h2 {
     color: #ffffff;
-    font-size: 45px;
+    font-size: 60px;
     font-family: 'Gruppo', sans-serif;
     font-weight: bold;
     margin-top: 2px;
     padding-top: 1px;
+    text-align: left;
   }
   
 .parallax-section sh {

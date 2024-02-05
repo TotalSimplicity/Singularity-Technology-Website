@@ -9,12 +9,19 @@
   <style>
     
     .slideshow-container {
-      max-width: 75%;
-      position: relative;
-      margin: auto;
-      display: flex;
-      overflow: hidden;
+    max-width: 75%;
+    position: relative;
+    margin: auto;
+    display: flex;
+    overflow: hidden;
+    opacity: 0; /* Initial opacity set to 0 */
+    transition: opacity 0.5s ease; /* Smooth transition for opacity */
     }
+
+    .fade-in {
+        opacity: 1; /* Set opacity to 1 when the fade-in class is applied */
+    }
+
 
     .mySlides {
       flex: 0 0 100%;
@@ -87,6 +94,19 @@
         element.style.transform = `translateY(${scrollY * 0.65}px)`; // Adjust the multiplier to control the movement
       });
     });
+    const slideshowContainer = document.querySelector('.slideshow-container');
+
+    window.addEventListener('scroll', () => {
+        const parallaxSectionHeight = document.querySelector('.parallax-section').offsetHeight;
+        const scrollTop = window.scrollY;
+        const triggerPoint = parallaxSectionHeight / 2; // Adjust this value as needed
+
+        // Calculate opacity based on scroll position
+        const opacity = Math.min(1, scrollTop / triggerPoint);
+
+        slideshowContainer.style.opacity = opacity.toFixed(2); // Limit opacity to 2 decimal places for smoother transitions
+    });
+
   </script>
 </body>
 </html>
