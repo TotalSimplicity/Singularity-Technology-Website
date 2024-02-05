@@ -63,7 +63,7 @@
           Based out of the Wilton library, we are open to kids grades 9-12 from all places. Our goal is to do the best we can and achieve things by working together. 
           We partner up with local businesses, schools, and the people around us to help better our community.</p>
       </div>
-      <img src="portraitindexabout.jpg">
+      <img src="henry.png" style="height: 400px">
     </div>
   </div>
   <?php include('footer.php'); ?>
