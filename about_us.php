@@ -15,7 +15,7 @@
     
     .grid-container {
       display: grid;
-      grid-template-columns: repeat(4, 1fr); /* 5 columns */
+      grid-template-columns: repeat(3, 1fr); /* 5 columns */
       grid-gap: 20px; /* Adjust gap between grid items */
       padding: 90px;
       padding-top: 30px;
@@ -92,6 +92,41 @@
       <img src="teamphotos/enri.jpg" alt="Image 2">
       <h3>Henri</h3>
       <p>OOF</p>
+    </div>
+    <div class="grid-item">
+      <img src="teamphotos/ben.jpg" alt="Image 2">
+      <h3>"Ben"</h3>
+      <p>TAP</p>
+    </div>
+    <div class="grid-item">
+      <img src="teamphotos/vivaan.jpg" alt="Image 2">
+      <h3>Vivaan</h3>
+      <p>TAP & TOOF</p>
+    </div>
+    <div class="grid-item">
+      <img src="teamphotos/angela.jpg" alt="Image 2">
+      <h3>Angela</h3>
+      <p>TAP</p>
+    </div>
+    <div class="grid-item">
+      <img src="teamphotos/saara.jpg" alt="Image 2">
+      <h3>Saara</h3>
+      <p>TAP</p>
+    </div>
+    <div class="grid-item">
+      <img src="teamphotos/arav.jpg" alt="Image 2">
+      <h3>Arav</h3>
+      <p>TAP</p>
+    </div>
+    <div class="grid-item">
+      <img src="teamphotos/anaya.jpg" alt="Image 2">
+      <h3>Anaya</h3>
+      <p>TAP</p>
+    </div>
+    <div class="grid-item">
+      <img src="teamphotos/enri.jpg" alt="Image 2">
+      <h3>James</h3>
+      <p>TAP</p>
     </div>
     <!-- Add more grid items as needed -->
   </div>
