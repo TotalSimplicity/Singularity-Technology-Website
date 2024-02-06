@@ -6,7 +6,7 @@
   <style>
     
     header {
-      height: 50px;
+      height: 30px;
       background-color: #04364A;
       display: flex;
       align-items: center;
