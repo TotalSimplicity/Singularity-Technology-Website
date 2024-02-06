@@ -25,9 +25,6 @@
   <div class="parallax-section">
     <h2 class="parallax-text">Our Robot</h2>
   </div>
-  <div class="henry">
-    <img src="henry.png">
-  </div>
   <?php include('footer.php'); ?>
 </body>
 <script>

@@ -11,9 +11,6 @@
       padding: 0;
       position: relative;
     }
-    .henry img{
-      width: 100%;
-    }
     
   </style>
 </head>
@@ -22,9 +19,6 @@
 
   <div class="parallax-section">
     <h2 class="parallax-text">Awards</h2>
-  </div>
-  <div class="henry">
-    <img src="henry.png">
   </div>
   <?php include('footer.php'); ?>
 </body>

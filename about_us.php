@@ -89,7 +89,7 @@
       <p>OOF</p>
     </div>
     <div class="grid-item">
-      <img src="henry.png" alt="Image 2" style="width: 100%">
+      <img src="enri.jpg" alt="Image 2" style="width: 100%">
       <h3>Henri</h3>
       <p>OOF</p>
     </div>
