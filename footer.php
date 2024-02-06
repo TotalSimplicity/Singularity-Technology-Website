@@ -15,7 +15,7 @@
                 <li><a href="https://sites.google.com/view/singularitytechnology-small-bu/home">Store</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
             </ul>
-            <p class="copyright">Singularity Technology ©2023</p>
+            <p class="copyright">Singularity Technology ©2024</p>
         </footer>
     </div>
 </body>
