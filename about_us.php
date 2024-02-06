@@ -70,7 +70,7 @@
     </div>
     <div class="grid-item">
       <img src="teamphotos/will.jpg" alt="Image 2">
-      <h3>Will</h3>
+      <h3>William Wolcott Olmstead V</h3>
       <p>CAD & Build</p>
     </div>
     <div class="grid-item">
@@ -100,7 +100,7 @@
     </div>
     <div class="grid-item">
       <img src="teamphotos/vivaan.jpg" alt="Image 2">
-      <h3>Vivaan</h3>
+      <h3>Vivaani</h3>
       <p>TAP & TOOF</p>
     </div>
     <div class="grid-item">
