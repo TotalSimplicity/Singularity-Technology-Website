@@ -96,7 +96,7 @@
   <div class="sidebar">
     <div class="close-button" onclick="toggleSidebar()">X</div>
     <a href="index.php">Home</a>
-    <a href="about_us.php">About Us</a>
+    <a href="about_us.php">About the Team</a>
     <a href="our_robot.php">Our Robot</a>
     <a href="notebook.php">Engineering Portfolio</a>
     <a href="outreach.php">Outreach</a>
