@@ -17,7 +17,7 @@
 <body>
   <?php include('header.php'); ?>
 
-  <div class="parallax-section">
+  <div class="parallax-section" style="height: 300px">
     <h2 class="parallax-text">About us</h2>
   </div>
   

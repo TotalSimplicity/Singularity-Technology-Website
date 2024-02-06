@@ -36,9 +36,10 @@
 <body>
   <?php include('header.php'); ?>
 
-  <div class="parallax-section">
+  <div class="parallax-section" style="height: 950px">
     <h2 class="parallax-text">Singularity Technology</h2>
     <h2 class="parallax-text">FTC Robotics Team #7034</h2>
+    <div class="down-arrow"></div>
   </div>
   
   <div class="slideshow-container">
@@ -119,6 +120,17 @@ window.addEventListener('scroll', () => {
 
     aboutSection.style.opacity = opacity.toFixed(2); // Limit opacity to 2 decimal places for smoother transitions
 });
+window.addEventListener('scroll', () => {
+      const arrow = document.querySelector('.down-arrow');
+      const parallaxSectionHeight = document.querySelector('.parallax-section').offsetHeight;
+      const scrollTop = window.scrollY;
+      const triggerPoint = parallaxSectionHeight / 4; // Adjust this value as needed
+
+      // Calculate opacity based on scroll position
+      const opacity = Math.max(0, 1 - scrollTop / triggerPoint);
+
+      arrow.style.opacity = opacity.toFixed(2); // Limit opacity to 2 decimal places for smoother transitions
+    });
   </script>
 </body>
 </html>
