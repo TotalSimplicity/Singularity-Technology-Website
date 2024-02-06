@@ -98,7 +98,7 @@
     <a href="index.php">Home</a>
     <a href="about_us.php">About Us</a>
     <a href="our_robot.php">Our Robot</a>
-    <a href="notebook.php">Portfolio</a>
+    <a href="notebook.php">Engineering Portfolio</a>
     <a href="outreach.php">Outreach</a>
     <a href="awards.php">Awards</a>
     <a href="contact.php">Contact us</a>
