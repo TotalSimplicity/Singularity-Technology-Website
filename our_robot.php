@@ -4,6 +4,8 @@
   <title>Our Robot - Singularity Technology</title>
   <link href="style.css" rel="stylesheet">
   <link rel="icon" href="headerlogof.ico" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
     
   <style>
     body {
