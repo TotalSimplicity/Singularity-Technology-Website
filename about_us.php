@@ -89,7 +89,7 @@
       <p>OOF</p>
     </div>
     <div class="grid-item">
-      <img src="teamphotos/enri.jpg" alt="Image 2">
+      <img src="henry.png" alt="Image 2" style="width: 100%">
       <h3>Henri</h3>
       <p>OOF</p>
     </div>
@@ -109,7 +109,7 @@
       <p>TAP</p>
     </div>
     <div class="grid-item">
-      <img src="teamphotos/saara.jpg" alt="Image 2">
+      <img src="teamphotos/saara.jpg" alt="Saaraimage">
       <h3>Saara</h3>
       <p>TAP</p>
     </div>
