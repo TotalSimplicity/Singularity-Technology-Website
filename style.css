@@ -104,6 +104,7 @@ body::-webkit-scrollbar{
   z-index: 999;
 }
 .footer-basic {
+  width: 100vw;
   padding: 40px 0;
   color: #c4bfbe;
 }
