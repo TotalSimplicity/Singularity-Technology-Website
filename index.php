@@ -9,7 +9,7 @@
   <style>
     
     .slideshow-container {
-    max-width: 74%;
+    max-width: 75%;
     position: relative;
     margin: auto;
     display: flex;
