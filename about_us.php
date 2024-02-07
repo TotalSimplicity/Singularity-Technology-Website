@@ -100,7 +100,7 @@
     </div>
     <div class="grid-item">
       <img src="teamphotos/vivaan.jpg" alt="Image 2">
-      <h3>Vivaani</h3>
+      <h3>Vivaan</h3>
       <p>TAP & TOOF</p>
     </div>
     <div class="grid-item">
