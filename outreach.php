@@ -65,7 +65,7 @@
 <body>
   <?php include('header.php'); ?>
 
-  <div class="parallax-section">
+  <div class="parallax-section" style="height:30vh">
     <h2 class="parallax-text">Outreach</h2>
   </div>
 
