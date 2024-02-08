@@ -70,8 +70,8 @@
   </div>
 
   <div class="grid-item">
-  <img class = "imgRight" src="outreachphotos/Ice Cream Social1.jpg" alt="Image 1">
-  <img class = "imgRight" src="outreachphotos/Ice Cream Social2.jpg" alt="Image 1">
+  <img class = "imgRight" src="outreachphotos/Ice Cream Social1.jpg" alt="BLAME AARUSHI">
+  <img class = "imgRight" src="outreachphotos/Ice Cream Social2.jpg" alt="BLAME AARUSHI">
 
       <div>
         <h1>Ice Cream Social  (Pre-Season June 3rd)</h1>
@@ -93,18 +93,18 @@
 
   <div class=".grid-container">
   <div class="grid-item">
-  <img class = "imgRight" src="outreachphotos/Pre-Season Library Programs1.JPG" alt="Image 1">
+  <img class = "imgRight" src="outreachphotos/Pre-Season Library Programs1.JPG" alt="BLAME AARUSHI">
       <div>
         <h1> Pre-Season Library Programs (June 21, August 24) </h1>
         <p> Each year, while school is out, we conduct 2-3 STEM summer programs at the library focused on the <u>engineering design process</u>. This summer, we hosted a Rube Goldberg inspired program as well as a Rubber Band Powered Cars program. The focus was to make sure kids had fun while simultaneously gathering knowledge about real world applications for engineering.  </p>
       </div>
-      <img class = "imgRight" src="outreachphotos/Pre-Season Library Programs2.JPG" alt="Image 1">
+      <img class = "imgRight" src="outreachphotos/Pre-Season Library Programs2.JPG" alt="BLAME AARUSHI">
 
     </div>
 
     <div class="grid-item">
-  <img class = "imgRight" src="outreachphotos/DYHD1.jpg" alt="Image 1">
-  <img class = "imgRight" src="" alt="IMAGE NOT IN DRIVE(Aarushi Fault)">
+  <img class = "imgRight" src="outreachphotos/DYHD1.jpg" alt="BLAME AARUSHI">
+  <img class = "imgRight" src="outreachphotos/DYHD2.png" alt="BLAME AARUSHI">
 
       <div>
         <h1>Destroy Your Hard Drive Fundraiser (December 9)</h1>
@@ -115,8 +115,8 @@ through the event this year.</p>
     </div>
 
     <div class="grid-item">
-  <img class = "imgRight" src="" alt="NO IMAGES IN DRIVE">
-  <img class = "imgRight" src="" alt="NO IMAGES IN DRIVE">
+  <img class = "imgRight" src="" alt="BLAME AARUSHI">
+  <img class = "imgRight" src="" alt="BLAME AARUSHI">
 
       <div>
         <h1>Toy + Bake Sale at our Local Stop and Shop (Oct 22)</h1>
@@ -126,11 +126,11 @@ through the event this year.</p>
     </div>
 
     <div class="grid-item">
-  <img class = "imgRight" src="" alt="Coming Soon"> 
-  <img class = "imgRight" src="" alt="Coming Soon"> 
+  <img class = "imgRight" src="" alt="BLAME AARUSHI"> 
+  <img class = "imgRight" src="" alt="BLAME AARUSHI"> 
       <div>
         <h1>Girl Scouts (December 20)</h1>
-        <h1> COMING SOON!!</h1>
+        <h1>BLAME AARUSHI</h1>
         <p></p>
       </div>
       
