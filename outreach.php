@@ -20,7 +20,8 @@
       padding: 90px;
       padding-top: 30px;
       background-color: black;
-      width: 97%;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      /* width: 97%; --> */
     }
     
     .grid-item {
@@ -115,8 +116,8 @@ through the event this year.</p>
     </div>
 
     <div class="grid-item">
-  <img class = "imgRight" src="" alt="BLAME AARUSHI">
-  <img class = "imgRight" src="" alt="BLAME AARUSHI">
+  <img class = "imgRight" src="outreachphotos/BakeSale1.png" alt="BLAME AARUSHI">
+  <img class = "imgRight" src="outreachphotos/BakeSale2.png" alt="BLAME AARUSHI">
 
       <div>
         <h1>Toy + Bake Sale at our Local Stop and Shop (Oct 22)</h1>
@@ -126,8 +127,8 @@ through the event this year.</p>
     </div>
 
     <div class="grid-item">
-  <img class = "imgRight" src="" alt="BLAME AARUSHI"> 
-  <img class = "imgRight" src="" alt="BLAME AARUSHI"> 
+  <img class = "imgRight" src="outreachphotos/GirlScouts1.png" alt="BLAME AARUSHI"> 
+ <!-- <img class = "imgRight" src="" alt="BLAME AARUSHI"> -->
       <div>
         <h1>Girl Scouts (December 20)</h1>
         <h1>BLAME AARUSHI</h1>
@@ -146,8 +147,8 @@ through the event this year.</p>
     </div>
 
     <div class="grid-item">
-  <img class = "imgRight" src="" alt="Blame Aarushi">
-  <img class = "imgRight" src="" alt="Blame Aarushi">
+  <img class = "imgRight" src="outreachphotos/MB1.png" alt="Blame Aarushi">
+  <img class = "imgRight" src="outreachphotos/MB2.png" alt="Blame Aarushi">
 
       <div>
         <h1>Middlebrook Middle School Presentation (January 23)</h1>
@@ -157,8 +158,8 @@ through the event this year.</p>
     </div>
 
     <div class="grid-item">
-  <img class = "imgRight" src="" alt="Coming Soon"> 
-  <img class = "imgRight" src="" alt="Coming Soon"> 
+  <img class = "imgRight" src="outreachphotos/Winter Carnival1.JPEG" alt="Coming Soon"> 
+  <img class = "imgRight" src="outreachphotos/Winter Carnival2.JPEG" alt="Coming Soon"> 
       <div>
         <h1>Winter Carnival (Febuary 4)</h1>
         <h1> COMING SOON!!</h1>
