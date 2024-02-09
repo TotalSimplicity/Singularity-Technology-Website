@@ -38,6 +38,11 @@
       padding: 5px;
     }
 
+    .grid-item h3 span {
+      font-size: 14px;
+      color: #ccc; /* Adjust color for the year */
+    }
+
     .grid-item h1 {
       color: green;
       padding: 5px;
@@ -78,7 +83,7 @@
 
   <div class="grid-container">
     <div class="grid-item">
-      <h3>Gearhead Grinder Qualifier</h3>
+      <h3>Gearhead Grinder Qualifier <span>(2023)</span></h3>
       <ul>
         <li>Collins Aerospace Innovate Award</li>
         <li>Inspire Award 2nd Place</li>
@@ -87,7 +92,7 @@
     </div>
 
     <div class="grid-item">
-      <h3>Gearhead Grinder Qualifier</h3>
+      <h3>Gearhead Grinder Qualifier <span>(2023)</span></h3>
       <ul>
         <li>Collins Aerospace Innovate Award</li>
         <li>Inspire Award 2nd Place</li>
@@ -96,7 +101,7 @@
     </div>
 
     <div class="grid-item">
-      <h3>Gearhead Grinder Qualifier</h3>
+      <h3>Gearhead Grinder Qualifier <span>(2023)</span></h3>
       <ul>
         <li>Collins Aerospace Innovate Award</li>
         <li>Inspire Award 2nd Place</li>
