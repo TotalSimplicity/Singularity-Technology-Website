@@ -61,6 +61,24 @@
     .imgRight{
       left: 200px;
     }
+
+    @media only screen and (max-width: 600px) {
+      .grid-container {
+        padding: 5px;
+      }
+
+      .grid-item {
+        padding: 10px;
+        width: 90%;
+        margin: 0 auto;
+      }
+
+      .grid-item img {
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+    
   </style>
 </head>
 <body>

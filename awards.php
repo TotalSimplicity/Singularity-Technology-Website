@@ -2,7 +2,6 @@
 <html>
 <head>
   <title>Awards - Singularity Technology</title>
-  <link href="style.css" rel="stylesheet">
   <link rel="icon" href="headerlogof.ico" type="image/x-icon">
 
   <style>
@@ -15,7 +14,7 @@
     
     .grid-container {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(3, 1fr); /* Changed to single column for phones */
       grid-gap: 2%;
       padding: 1%;
       background-color: black;
@@ -70,13 +69,24 @@
       color: white;
       font-size: 2em;
     }
+
+    /* Media query for phones */
+    @media only screen and (max-width: 600px) {
+      .grid-item h3 {
+        padding: 10px; /* Adjusted padding for better spacing */
+      }
+
+      .grid-item ul {
+        padding-left: 20px; /* Adjusted padding for better spacing */
+      }
+    }
   </style>
 </head>
 <body>
   <?php include('header.php'); ?>
 
   <div class="parallax-section" style="height:30vh">
-    <h2 class="parallax-text">Awards</h2>
+    <h2>Awards</h2>
   </div>
 
   <div class="grid-container">
@@ -193,7 +203,6 @@
         <li>Promote Award 2nd Place</li>
       </ul>
     </div>
-
   </div>
 
   <?php include('footer.php'); ?>
@@ -207,8 +216,3 @@
       // Apply the parallax effect to each parallax-text element
       parallaxTextElements.forEach((element, index) => {
         element.style.transform = `translateY(${scrollY * 0.5}px)`;
-      });
-    });
-  </script>
-</body>
-</html>
