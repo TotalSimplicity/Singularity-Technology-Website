@@ -51,8 +51,8 @@
     }
     
     .grid-item img {
-      max-width: 15%; /* Ensure images don't exceed container width */
-      height: auto;
+      max-height: 50%; /* Ensure images don't exceed container width */
+      width: auto;
       margin-bottom: 10px; /* Space between image and text */
       padding: 20px;
       color: white;
@@ -64,19 +64,32 @@
 
     @media only screen and (max-width: 600px) {
       .grid-container {
-        padding: 5px;
       }
 
       .grid-item {
-        padding: 10px;
+        padding: 1px;
         width: 90%;
         margin: 0 auto;
+        height: 175px;
       }
 
       .grid-item img {
-        margin-left: auto;
-        margin-right: auto;
+        max-height: 15%; /* Ensure images don't exceed container width */
+        width: auto;
       }
+
+      .grid-item h1 {
+      color: green;
+      padding: 5px;
+      font-size: 1em;
+    }
+
+    .grid-item p {
+      color: white;
+      padding: 5px;
+      font-size: 0.5em;
+    }
+
     }
     
   </style>
