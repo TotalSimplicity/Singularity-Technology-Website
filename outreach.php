@@ -54,7 +54,7 @@
       max-height: 50%; /* Ensure images don't exceed container width */
       width: auto;
       margin-bottom: 10px; /* Space between image and text */
-      padding: 20px;
+      padding: 5px;
       color: white;
     }
     
@@ -70,7 +70,7 @@
         padding: 1px;
         width: 90%;
         margin: 0 auto;
-        height: 175px;
+        height: 200px;
       }
 
       .grid-item img {
