@@ -54,9 +54,6 @@
     <div class="mySlides">
       <img src="indexslideshow/3.jpg" alt="Image 3">
     </div>
-    <div class="mySlides">
-      <img src="indexslideshow/henry.png" alt="Image 3" style="height: 75vh">
-    </div>
   </div>
   
   <div style="height: 475px" class="parallax-section"> 
