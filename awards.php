@@ -81,6 +81,21 @@
       }
     }
   </style>
+
+  <script>
+    // JavaScript code for redirection based on screen width
+    window.addEventListener('DOMContentLoaded', () => {
+      const screenWidth = window.innerWidth;
+
+      // Log screen width for debugging
+      console.log("Screen Width:", screenWidth);
+
+      if (screenWidth => 600) {
+        window.location.href = 'Mobile/MobileAwards'; 
+      }
+    });
+  </script>
+
 </head>
 <body>
   <?php include('header.php'); ?>
@@ -216,3 +231,5 @@
       // Apply the parallax effect to each parallax-text element
       parallaxTextElements.forEach((element, index) => {
         element.style.transform = `translateY(${scrollY * 0.5}px)`;
+      }
+    }
