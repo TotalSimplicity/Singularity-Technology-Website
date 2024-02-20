@@ -124,7 +124,7 @@
       <p>TAP</p>
     </div>
     <div class="grid-item">
-      <img src="teamphotos/enri.jpg" alt="Image 2">
+      <img src="teamphotos/null.jpg" alt="Image 2">
       <h3>James</h3>
       <p>TAP</p>
     </div>
