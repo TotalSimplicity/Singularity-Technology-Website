@@ -161,23 +161,6 @@
       </ul>
     </div>
   </div>
-
-  <div class="grid-container">
-    <div class="grid-item">
-      <h3>CT FTC League Meet #7 REMOTE<span> (2020)</span></h3>
-      <ul>
-        <li>No Awards Earned</li>
-      </ul>
-    </div>
-
-    <div class="grid-item">
-      <h3>CT FTC League Tournament REMOTE<span> (2020)</span></h3>
-      <ul>
-        <li>No Awards Earned</li>
-      </ul>
-    </div>
-  </div>
-
   <div class="grid-container">
     <div class="grid-item">
       <h3>Gearhead Grinder Qualifier<span> (2019)</span></h3>
