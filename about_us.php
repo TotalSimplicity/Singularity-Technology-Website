@@ -144,5 +144,6 @@
         element.style.transform = `translateY(${scrollY * 0.65}px)`; // Adjust the multiplier to control the movement
       });
     });
+    
 </script>
 </html>

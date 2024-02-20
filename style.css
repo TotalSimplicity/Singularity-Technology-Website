@@ -77,6 +77,7 @@ body::-webkit-scrollbar{
     padding-left: 15%;
     
   }
+  
 .parallax-section .content {
     display: flex;
     flex-direction: row;

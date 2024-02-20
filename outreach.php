@@ -43,15 +43,17 @@
     .grid-item h1 {
       color: green;
       padding: 5px;
+      padding-left: 20px;
     }
 
     .grid-item p {
       color: white;
       padding: 5px;
+      padding-left: 20px;
     }
     
     .grid-item img {
-      max-height: 50%; /* Ensure images don't exceed container width */
+      max-height: 95%; /* Ensure images don't exceed container width */
       width: auto;
       margin-bottom: 10px; /* Space between image and text */
       padding: 5px;
@@ -117,7 +119,7 @@
   <img class = "imgRight" src="" alt="Coming Soon"> 
       <div>
         <h1>Meet With Seven Acres Middle School Kids (May 5)</h1>
-        <h1> COMING SOON!!</h1>
+        <p> COMING SOON!!</p>
         <p></p>
       </div>
       
@@ -162,8 +164,7 @@ through the event this year.</p>
  <!-- <img class = "imgRight" src="" alt="BLAME AARUSHI"> -->
       <div>
         <h1>Girl Scouts (December 20)</h1>
-        <h1>BLAME AARUSHI</h1>
-        <p></p>
+        <p>Coming soon</p>
       </div>
       
     </div>
