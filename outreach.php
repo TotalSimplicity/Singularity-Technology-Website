@@ -3,8 +3,7 @@
 <head>
   <title>Outreach - Singularity Technology</title>
   <link href="style.css" rel="stylesheet">
-  <link rel="icon" href="headerlogof.ico" type="image/x-icon">
-    
+  <link rel="icon" href="header.png" type="image/png">
   <style>
    body {
       margin: 0;
@@ -104,8 +103,8 @@
   </div>
 
   <div class="grid-item">
-  <img class = "imgRight" src="outreachphotos/Ice Cream Social1.jpg" alt="BLAME AARUSHI">
-  <img class = "imgRight" src="outreachphotos/Ice Cream Social2.jpg" alt="BLAME AARUSHI">
+  <img class = "imgRight" src="outreachphotos/Ice Cream Social1.jpg" alt="Coming soon">
+  <img class = "imgRight" src="outreachphotos/Ice Cream Social2.jpg" alt="Coming soon">
 
       <div>
         <h1>Ice Cream Social  (Pre-Season June 3rd)</h1>
@@ -127,18 +126,18 @@
 
   <div class=".grid-container">
   <div class="grid-item">
-  <img class = "imgRight" src="outreachphotos/Pre-Season Library Programs1.JPG" alt="BLAME AARUSHI">
+  <img class = "imgRight" src="outreachphotos/Pre-Season Library Programs1.JPG" alt="Coming soon">
       <div>
         <h1> Pre-Season Library Programs (June 21, August 24) </h1>
         <p> Each year, while school is out, we conduct 2-3 STEM summer programs at the library focused on the <u>engineering design process</u>. This summer, we hosted a Rube Goldberg inspired program as well as a Rubber Band Powered Cars program. The focus was to make sure kids had fun while simultaneously gathering knowledge about real world applications for engineering.  </p>
       </div>
-      <img class = "imgRight" src="outreachphotos/Pre-Season Library Programs2.JPG" alt="BLAME AARUSHI">
+      <img class = "imgRight" src="outreachphotos/Pre-Season Library Programs2.JPG" alt="Coming soon">
 
     </div>
 
     <div class="grid-item">
-  <img class = "imgRight" src="outreachphotos/DYHD1.jpg" alt="BLAME AARUSHI">
-  <img class = "imgRight" src="outreachphotos/DYHD2.png" alt="BLAME AARUSHI">
+  <img class = "imgRight" src="outreachphotos/DYHD1.jpg" alt="Coming soon">
+  <img class = "imgRight" src="outreachphotos/DYHD2.png" alt="Coming soon">
 
       <div>
         <h1>Destroy Your Hard Drive Fundraiser (December 9)</h1>
@@ -149,8 +148,8 @@ through the event this year.</p>
     </div>
 
     <div class="grid-item">
-  <img class = "imgRight" src="outreachphotos/BakeSale1.png" alt="BLAME AARUSHI">
-  <img class = "imgRight" src="outreachphotos/BakeSale2.png" alt="BLAME AARUSHI">
+  <img class = "imgRight" src="outreachphotos/BakeSale1.png" alt="Coming soon">
+  <img class = "imgRight" src="outreachphotos/BakeSale2.png" alt="Coming soon">
 
       <div>
         <h1>Toy + Bake Sale at our Local Stop and Shop (Oct 22)</h1>
@@ -160,8 +159,8 @@ through the event this year.</p>
     </div>
 
     <div class="grid-item">
-  <img class = "imgRight" src="outreachphotos/GirlScouts1.png" alt="BLAME AARUSHI"> 
- <!-- <img class = "imgRight" src="" alt="BLAME AARUSHI"> -->
+  <img class = "imgRight" src="outreachphotos/GirlScouts1.png" alt="Coming soon"> 
+ <!-- <img class = "imgRight" src="" alt="Coming soon"> -->
       <div>
         <h1>Girl Scouts (December 20)</h1>
         <p>Coming soon</p>
@@ -179,8 +178,8 @@ through the event this year.</p>
     </div>
 
     <div class="grid-item">
-  <img class = "imgRight" src="outreachphotos/MB1.png" alt="Blame Aarushi">
-  <img class = "imgRight" src="outreachphotos/MB2.png" alt="Blame Aarushi">
+  <img class = "imgRight" src="outreachphotos/MB1.png" alt="Coming soon">
+  <img class = "imgRight" src="outreachphotos/MB2.png" alt="Coming soon">
 
       <div>
         <h1>Middlebrook Middle School Presentation (January 23)</h1>

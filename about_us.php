@@ -3,7 +3,7 @@
 <head>
   <title>About Us - Singularity Technology</title>
   <link href="style.css" rel="stylesheet">
-  <link rel="icon" href="headerlogof.ico" type="image/x-icon">
+  <link rel="icon" href="header.png" type="image/png">
     
   <style>
     body {

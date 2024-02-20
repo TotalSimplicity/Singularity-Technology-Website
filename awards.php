@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>Awards - Singularity Technology</title>
-  <link rel="icon" href="headerlogof.ico" type="image/x-icon">
+  <link rel="icon" href="header.png" type="image/png">
 
   <style>
     body {
