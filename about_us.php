@@ -77,6 +77,11 @@
       <img src="teamphotos/leo.jpg" alt="Image 2">
       <h3>Leo</h3>
       <p>Programming</p>
+  </div>
+  <div class="grid-item">
+      <img src="teamphotos/enri.jpg" alt="Image 2">
+      <h3>Henry</h3>
+      <p>Outreach Coordinator</p>
     </div>
     <div class="grid-item">
       <img src="teamphotos/anirudh.jpg" alt="Image 2">
@@ -86,11 +91,6 @@
     <div class="grid-item">
       <img src="teamphotos/achintya.jpg" alt="Image 2">
       <h3>Achintya</h3>
-      <p>OOF</p>
-    </div>
-    <div class="grid-item">
-      <img src="teamphotos/enri.jpg" alt="Image 2">
-      <h3>Henri</h3>
       <p>OOF</p>
     </div>
     <div class="grid-item">
