@@ -106,7 +106,9 @@
 
     <div class="grid-item">
       <h3>States<span> (2023)</span></h3>
-      <h3> Upcoming on February 17th </h3>
+      <ul>
+        <li>Innovate Award sponsored by RTX - 2nd Place</li>
+      </ul>
     </div>
   </div>
 
