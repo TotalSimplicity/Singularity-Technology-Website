@@ -74,6 +74,7 @@
     <div class="sidebar">
         <a href="index.php" <?php echo isActivePage("index.php") ? 'class="current-page"' : ''; ?>>Home</a>
         <a href="about_us.php" <?php echo isActivePage("about_us.php") ? 'class="current-page"' : ''; ?>>About the Team</a>
+        <a href="our_robot.php" <?php echo isActivePage("our_robot.php") ? 'class="current-page"' : ''; ?>>The Robot</a>
         <a href="outreach.php" <?php echo isActivePage("outreach.php") ? 'class="current-page"' : ''; ?>>Outreach</a>
         <a href="awards.php" <?php echo isActivePage("awards.php") ? 'class="current-page"' : ''; ?>>Awards</a>
     </div>
