@@ -63,22 +63,8 @@
   </div>
   
   <h3 style="text-align: center; font-family: 'Advent Pro', sans-serif; color: #dedede;">Email us at singultech@gmail.com or visit us at the Wilton Library Website</h3>
-  <h3 style="text-align: center; font-family: 'Advent Pro', sans-serif; color: #dedede;">Or you can use the form below to contact us directly:</h3>
 
-  <div class="container">
-    <form action="message-send.php" method="post">
-      <label for="name">Name</label>
-      <input type="text" id="fname" name="name" placeholder="Your name...">
-      <label for="email">Email</label>
-      <input type="text" id="email" name="email" placeholder="Your email...">
-
-
-      <label for="message">Message</label>
-      <textarea id="message" name="message" placeholder="Write something..." style="height:200px"></textarea>
-
-      <input type="submit" value="Submit">
-    </form>
-  </div>
+  
   <?php include('footer.php'); ?>
 </body>
 <script>
