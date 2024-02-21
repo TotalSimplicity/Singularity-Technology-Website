@@ -70,7 +70,7 @@
     </div>
     <div class="grid-item">
       <img src="teamphotos/will.jpg" alt="Image 2">
-      <h3>William Wolcott Olmstead V</h3>
+      <h3>William</h3>
       <p>CAD & Build</p>
     </div>
     <div class="grid-item">
