@@ -109,7 +109,7 @@
       <p>TAP</p>
     </div>
     <div class="grid-item">
-      <img src="teamphotos/saara.jpg" alt="Saaraimage">
+      <img src="teamphotos/saara2.jpg" alt="Saaraimage">
       <h3>Saara</h3>
       <p>TAP</p>
     </div>
