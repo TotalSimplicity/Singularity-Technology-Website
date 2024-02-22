@@ -9,13 +9,13 @@
   <style>
     
     .slideshow-container {
-    max-width: 74%;
-    position: relative;
-    margin: auto;
-    display: flex;
-    overflow: hidden;
-    opacity: 0; /* Initial opacity set to 0 */
-    transition: opacity 0.5s ease; /* Smooth transition for opacity */
+      max-width: 74%;
+      position: relative;
+      margin: auto;
+      display: flex;
+      overflow: hidden;
+      opacity: 0; /* Initial opacity set to 0 */
+      transition: opacity 0.5s ease; /* Smooth transition for opacity */
     }
 
     .fade-in {
