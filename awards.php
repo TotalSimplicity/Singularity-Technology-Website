@@ -90,8 +90,8 @@
       // Log screen width for debugging
       console.log("Screen Width:", screenWidth);
 
-      if (screenWidth => 600) {
-        window.location.href = 'Mobile/MobileAwards'; 
+      if (screenWidth <= 400) {
+        window.location.href = 'MobileAwards.php'; 
       }
     });
   </script>
@@ -177,22 +177,6 @@
 
   <div class="grid-container">
     <div class="grid-item">
-      <h3>CT FTC League Meet #7 REMOTE<span> (2020)</span></h3>
-      <ul>
-        <li>No Awards Earned</li>
-      </ul>
-    </div>
-
-    <div class="grid-item">
-      <h3>CT FTC League Tournament REMOTE<span> (2020)</span></h3>
-      <ul>
-        <li>No Awards Earned</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="grid-container">
-    <div class="grid-item">
       <h3>Gearhead Grinder Qualifier<span> (2019)</span></h3>
       <ul>
         <li>Collins Aerospace Innovate Award</li>
@@ -219,6 +203,8 @@
       </ul>
     </div>
   </div>
+  </body>
+  
 
   <?php include('footer.php'); ?>
 
