@@ -78,15 +78,15 @@
       <h3>Leo</h3>
       <p>Programming</p>
   </div>
-  <div class="grid-item">
-      <img src="teamphotos/enri.jpg" alt="Image 2">
-      <h3>Enri</h3>
-      <p>Outreach Coordinator</p>
-    </div>
     <div class="grid-item">
       <img src="teamphotos/anirudh.jpg" alt="Image 2">
       <h3>Anirudh</h3>
       <p>OOF</p>
+    </div>
+    <div class="grid-item">
+      <img src="teamphotos/enri.jpg" alt="Image 2">
+      <h3>Enri</h3>
+      <p>Outreach Coordinator/OOF</p>
     </div>
     <div class="grid-item">
       <img src="teamphotos/achintya.jpg" alt="Image 2">
