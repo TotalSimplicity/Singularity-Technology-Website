@@ -80,7 +80,7 @@
   </div>
   <div class="grid-item">
       <img src="teamphotos/enri.jpg" alt="Image 2">
-      <h3>Henry</h3>
+      <h3>Enri</h3>
       <p>Outreach Coordinator</p>
     </div>
     <div class="grid-item">
